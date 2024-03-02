@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>IMAGE TAG</h1>
+    <H2>DEFINITION</H2>
+    <p>The <img> tag is used for attaching an image in an HTML page or add the images in web page.</p>
+        <p>There are 2 ways to insert the images into a webpage by providing the url or location of the current web page.</p>
+        <p>It has two required attributes:</p>
+        	<ul>
+                <li>src</li>
+                <li>alt</li>
+            </ul>
+            
+        </H3>
+        <H2>SYNTAX</H2>
+        <p>&lt;img src="url" alt="some_text" width="" height=""&gt;</p>
+
+        <p>Here is the code- <a href="">Click here</a></p>
+</body>
+</html>

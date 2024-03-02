@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Ancher Tag</h1>
+    <h3>Definition</h3>
+    <p>The Ancher tag is used to create a hyperlink to a webpage.</p>
+    <h3>SYNTAX</h3>
+    <p>&lt;a&gt;&lt;/a&gt;</p>
+    
+    <p>To know further more about Ancher tag- <a href="./file.txt">Click Here</a></p>
+    <p>This is a code you will get an idea- <a href="./a.txt">Click Here</a></p>
+    
+       
+</body>
+</html>

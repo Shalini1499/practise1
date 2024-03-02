@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>VIDEO TAG</h1>
+    <H2>DEFINITION</H2>
+    <p>The HTML Video element is used to show a video on a web page.
+        It allows the addition of video files in many formats such as MP4, WebM, etc.</p>
+    <video controls src="./cmdy video.mp4"></video>
+    
+</body>
+</html>

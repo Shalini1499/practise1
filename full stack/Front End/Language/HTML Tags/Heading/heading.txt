@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>HEADING TAG</h1>
+    <H3>DEFINITION</H3>
+    <p>The HTML heading tags(h1 to h6) are used to add headings to webpage. </p>
+        Where,
+        <p>h1 is the first and main heading</p>
+        <p>h2,h3,h4 and h5 is the subheading</p>
+        <p>h6 is the last heading</p>
+        
+        <H2>Example:</H2>
+
+            <h1>Why</h1>
+            <h2>should</h2>
+            <h3>children </h1>
+            <h4>learn</h2>
+            <h5>the</h1>
+            <h6>alphabets</h2>
+            
+         <p>Here is the code- <a href="">Click here</a></p>       
+        
+</body>
+</html>

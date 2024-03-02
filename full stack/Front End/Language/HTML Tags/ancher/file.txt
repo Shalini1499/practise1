@@ -1,0 +1,28 @@
+What is Ancher Tag?
+
+The Ancher tag is used to create a hyperlink to a webpage.
+The most important attribute to this ancher tag is "href" because this links the destination.
+If there is no href it will consider as a placeholder.
+
+SYNTAX
+<a href = "link"> Link Name </a>
+
+Links in browsers usually follow these conventions:
+ Unvisited links: Underlined and blue.
+ Visited links: Underlined and purple.
+ Active links: Underlined and red.
+
+Example:
+        <a href ="My Website"> website name</a>
+        In place of my website you can give the url as per your wish.
+
+
+
+
+                    
+          
+          
+        
+
+
+
